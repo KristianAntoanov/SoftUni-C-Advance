@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{0B12CDC7-8DE0-42AC-83EB-3F8024A44792}|Default">
+  <MonoDevelop.Ide.ItemProperties.P03 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P05 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.P09 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P02 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.P06 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="P08/Program.cs">
+    <Files>
+      <File FileName="P01/Program.cs" Line="14" Column="1" />
+      <File FileName="P02/Program.cs" Line="20" Column="67" />
+      <File FileName="P03/Program.cs" Line="14" Column="14" />
+      <File FileName="P04/Program.cs" Line="23" Column="27" />
+      <File FileName="P05/Program.cs" Line="23" Column="13" />
+      <File FileName="P06/Program.cs" Line="40" Column="12" />
+      <File FileName="P07/Program.cs" Line="36" Column="40" />
+      <File FileName="P09/Program.cs" Line="42" Column="18" />
+      <File FileName="P11/Program.cs" Line="24" Column="33" />
+      <File FileName="P08/Program.cs" Line="56" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Stacks and Queues - Exercise" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.P07 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P11 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P04 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.P08 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kristianivanov/Projects/Stacks and Queues - Exercise/P06/Program.cs" relfile="P06/Program.cs" line="9" column="1" />
+      <Breakpoint file="/Users/kristianivanov/Projects/Stacks and Queues - Exercise/P03/Program.cs" relfile="P03/Program.cs" line="31" column="1" />
+      <Breakpoint file="/Users/kristianivanov/Projects/Stacks and Queues - Exercise/P04/Program.cs" relfile="P04/Program.cs" line="18" column="1" />
+      <Breakpoint file="/Users/kristianivanov/Projects/Stacks and Queues - Exercise/P05/Program.cs" relfile="P05/Program.cs" line="18" column="1" />
+      <Breakpoint file="/Users/kristianivanov/Projects/Stacks and Queues - Exercise/P08/Program.cs" relfile="P08/Program.cs" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Stacks and Queues - Exercise/P09/bin/Debug/net6.0/P09
+/Users/kristianivanov/Projects/Stacks and Queues - Exercise/P09/bin/Debug/net6.0/P09.deps.json
+/Users/kristianivanov/Projects/Stacks and Queues - Exercise/P09/bin/Debug/net6.0/P09.runtimeconfig.json
+/Users/kristianivanov/Projects/Stacks and Queues - Exercise/P09/bin/Debug/net6.0/P09.dll
+/Users/kristianivanov/Projects/Stacks and Queues - Exercise/P09/bin/Debug/net6.0/P09.pdb
+/Users/kristianivanov/Projects/Stacks and Queues - Exercise/P09/obj/Debug/net6.0/P09.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Stacks and Queues - Exercise/P09/obj/Debug/net6.0/P09.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Stacks and Queues - Exercise/P09/obj/Debug/net6.0/P09.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Stacks and Queues - Exercise/P09/obj/Debug/net6.0/P09.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Stacks and Queues - Exercise/P09/obj/Debug/net6.0/P09.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Stacks and Queues - Exercise/P09/obj/Debug/net6.0/P09.dll
+/Users/kristianivanov/Projects/Stacks and Queues - Exercise/P09/obj/Debug/net6.0/refint/P09.dll
+/Users/kristianivanov/Projects/Stacks and Queues - Exercise/P09/obj/Debug/net6.0/P09.pdb
+/Users/kristianivanov/Projects/Stacks and Queues - Exercise/P09/obj/Debug/net6.0/P09.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Stacks and Queues - Exercise/P09/obj/Debug/net6.0/ref/P09.dll
