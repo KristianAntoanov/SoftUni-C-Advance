@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{72A94BBF-D71D-4AE8-B37A-1EB6B8FF011B}|Default">
+  <MonoDevelop.Ide.ItemProperties.P03 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P07 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kristianivanov/Projects/Stacks and Queues - Lab/P02/Program.cs" relfile="P02/Program.cs" line="14" column="1" />
+      <Breakpoint file="/Users/kristianivanov/Projects/Stacks and Queues - Lab/P03/Program.cs" relfile="P03/Program.cs" line="19" column="1" />
+      <Breakpoint file="/Users/kristianivanov/Projects/Stacks and Queues - Lab/P06/Program.cs" relfile="P06/Program.cs" line="11" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.P06 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P08 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.P04 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P05 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="P06/Program.cs">
+    <Files>
+      <File FileName="P01/Program.cs" Line="5" Column="27" />
+      <File FileName="P02/Program.cs" Line="7" Column="40" />
+      <File FileName="P04/Program.cs" Line="14" Column="14" />
+      <File FileName="P03/Program.cs" Line="15" Column="14" />
+      <File FileName="p05/Program.cs" Line="4" Column="1" />
+      <File FileName="P07/Program.cs" Line="25" Column="18" />
+      <File FileName="P08/Program.cs" Line="18" Column="38" />
+      <File FileName="P06/Program.cs" Line="12" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Stacks and Queues - Lab" expanded="True">
+            <Node name="P06" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

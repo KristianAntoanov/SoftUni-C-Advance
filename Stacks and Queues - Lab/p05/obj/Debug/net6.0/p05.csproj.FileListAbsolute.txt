@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Stacks and Queues - Lab/p05/bin/Debug/net6.0/p05
+/Users/kristianivanov/Projects/Stacks and Queues - Lab/p05/bin/Debug/net6.0/p05.deps.json
+/Users/kristianivanov/Projects/Stacks and Queues - Lab/p05/bin/Debug/net6.0/p05.runtimeconfig.json
+/Users/kristianivanov/Projects/Stacks and Queues - Lab/p05/bin/Debug/net6.0/p05.dll
+/Users/kristianivanov/Projects/Stacks and Queues - Lab/p05/bin/Debug/net6.0/p05.pdb
+/Users/kristianivanov/Projects/Stacks and Queues - Lab/p05/obj/Debug/net6.0/p05.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Stacks and Queues - Lab/p05/obj/Debug/net6.0/p05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Stacks and Queues - Lab/p05/obj/Debug/net6.0/p05.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Stacks and Queues - Lab/p05/obj/Debug/net6.0/p05.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Stacks and Queues - Lab/p05/obj/Debug/net6.0/p05.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Stacks and Queues - Lab/p05/obj/Debug/net6.0/p05.dll
+/Users/kristianivanov/Projects/Stacks and Queues - Lab/p05/obj/Debug/net6.0/refint/p05.dll
+/Users/kristianivanov/Projects/Stacks and Queues - Lab/p05/obj/Debug/net6.0/p05.pdb
+/Users/kristianivanov/Projects/Stacks and Queues - Lab/p05/obj/Debug/net6.0/p05.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Stacks and Queues - Lab/p05/obj/Debug/net6.0/ref/p05.dll
