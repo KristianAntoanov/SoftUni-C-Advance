@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{B0D95EE3-8ADC-4ACE-B7AB-37B8A8895790}|Default">
+  <MonoDevelop.Ide.ItemProperties.P03 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P05 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.P02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P06 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="P07/Program.cs">
+    <Files>
+      <File FileName="P01/Program.cs" />
+      <File FileName="P02/Program.cs" />
+      <File FileName="P03/Program.cs" />
+      <File FileName="P04/Program.cs" />
+      <File FileName="P05/Program.cs" />
+      <File FileName="P06/Program.cs" Line="18" Column="38" />
+      <File FileName="P07/Program.cs" Line="35" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Multidimensional Arrays - Lab" expanded="True">
+            <Node name="P01" expanded="True" />
+            <Node name="P06" expanded="True" />
+            <Node name="P07" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.P07 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P04 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kristianivanov/Projects/Multidimensional Arrays - Lab/P03/Program.cs" relfile="P03/Program.cs" line="15" column="1" />
+      <Breakpoint file="/Users/kristianivanov/Projects/Multidimensional Arrays - Lab/P05/Program.cs" relfile="P05/Program.cs" line="78" column="1" />
+      <Breakpoint file="/Users/kristianivanov/Projects/Multidimensional Arrays - Lab/P06/Program.cs" relfile="P06/Program.cs" line="22" column="1" />
+      <Breakpoint file="/Users/kristianivanov/Projects/Multidimensional Arrays - Lab/P04/Program.cs" relfile="P04/Program.cs" line="13" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
