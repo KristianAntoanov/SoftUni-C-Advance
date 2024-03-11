@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/03.CopyBinaryFile/bin/Debug/net6.0/03.CopyBinaryFile
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/03.CopyBinaryFile/bin/Debug/net6.0/03.CopyBinaryFile.deps.json
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/03.CopyBinaryFile/bin/Debug/net6.0/03.CopyBinaryFile.runtimeconfig.json
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/03.CopyBinaryFile/bin/Debug/net6.0/03.CopyBinaryFile.dll
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/03.CopyBinaryFile/bin/Debug/net6.0/03.CopyBinaryFile.pdb
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/03.CopyBinaryFile/obj/Debug/net6.0/03.CopyBinaryFile.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/03.CopyBinaryFile/obj/Debug/net6.0/03.CopyBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/03.CopyBinaryFile/obj/Debug/net6.0/03.CopyBinaryFile.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/03.CopyBinaryFile/obj/Debug/net6.0/03.CopyBinaryFile.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/03.CopyBinaryFile/obj/Debug/net6.0/03.CopyBinaryFile.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/03.CopyBinaryFile/obj/Debug/net6.0/03.CopyBinaryFile.dll
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/03.CopyBinaryFile/obj/Debug/net6.0/refint/03.CopyBinaryFile.dll
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/03.CopyBinaryFile/obj/Debug/net6.0/03.CopyBinaryFile.pdb
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/03.CopyBinaryFile/obj/Debug/net6.0/03.CopyBinaryFile.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/03.CopyBinaryFile/obj/Debug/net6.0/ref/03.CopyBinaryFile.dll

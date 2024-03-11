@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/06.ZipandExtracts/bin/Debug/net6.0/06.ZipandExtracts
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/06.ZipandExtracts/bin/Debug/net6.0/06.ZipandExtracts.deps.json
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/06.ZipandExtracts/bin/Debug/net6.0/06.ZipandExtracts.runtimeconfig.json
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/06.ZipandExtracts/bin/Debug/net6.0/06.ZipandExtracts.dll
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/06.ZipandExtracts/bin/Debug/net6.0/06.ZipandExtracts.pdb
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/06.ZipandExtracts/obj/Debug/net6.0/06.ZipandExtracts.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/06.ZipandExtracts/obj/Debug/net6.0/06.ZipandExtracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/06.ZipandExtracts/obj/Debug/net6.0/06.ZipandExtracts.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/06.ZipandExtracts/obj/Debug/net6.0/06.ZipandExtracts.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/06.ZipandExtracts/obj/Debug/net6.0/06.ZipandExtracts.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/06.ZipandExtracts/obj/Debug/net6.0/06.ZipandExtracts.dll
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/06.ZipandExtracts/obj/Debug/net6.0/refint/06.ZipandExtracts.dll
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/06.ZipandExtracts/obj/Debug/net6.0/06.ZipandExtracts.pdb
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/06.ZipandExtracts/obj/Debug/net6.0/06.ZipandExtracts.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/06.ZipandExtracts/obj/Debug/net6.0/ref/06.ZipandExtracts.dll

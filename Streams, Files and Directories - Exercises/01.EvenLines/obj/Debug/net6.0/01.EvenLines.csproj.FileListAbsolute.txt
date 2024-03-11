@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/01.EvenLines/bin/Debug/net6.0/01.EvenLines
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/01.EvenLines/bin/Debug/net6.0/01.EvenLines.deps.json
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/01.EvenLines/bin/Debug/net6.0/01.EvenLines.runtimeconfig.json
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/01.EvenLines/bin/Debug/net6.0/01.EvenLines.dll
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/01.EvenLines/bin/Debug/net6.0/01.EvenLines.pdb
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/01.EvenLines/obj/Debug/net6.0/01.EvenLines.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/01.EvenLines/obj/Debug/net6.0/01.EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/01.EvenLines/obj/Debug/net6.0/01.EvenLines.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/01.EvenLines/obj/Debug/net6.0/01.EvenLines.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/01.EvenLines/obj/Debug/net6.0/01.EvenLines.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/01.EvenLines/obj/Debug/net6.0/01.EvenLines.dll
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/01.EvenLines/obj/Debug/net6.0/refint/01.EvenLines.dll
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/01.EvenLines/obj/Debug/net6.0/01.EvenLines.pdb
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/01.EvenLines/obj/Debug/net6.0/01.EvenLines.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Exercises/01.EvenLines/obj/Debug/net6.0/ref/01.EvenLines.dll
