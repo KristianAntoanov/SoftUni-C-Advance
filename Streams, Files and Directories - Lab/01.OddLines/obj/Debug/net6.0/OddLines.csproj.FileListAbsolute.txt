@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/01.OddLines/bin/Debug/net6.0/OddLines
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/01.OddLines/bin/Debug/net6.0/OddLines.deps.json
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/01.OddLines/bin/Debug/net6.0/OddLines.runtimeconfig.json
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/01.OddLines/bin/Debug/net6.0/OddLines.dll
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/01.OddLines/bin/Debug/net6.0/OddLines.pdb
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/01.OddLines/obj/Debug/net6.0/OddLines.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/01.OddLines/obj/Debug/net6.0/OddLines.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/01.OddLines/obj/Debug/net6.0/OddLines.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/01.OddLines/obj/Debug/net6.0/OddLines.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/01.OddLines/obj/Debug/net6.0/OddLines.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/01.OddLines/obj/Debug/net6.0/OddLines.dll
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/01.OddLines/obj/Debug/net6.0/refint/OddLines.dll
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/01.OddLines/obj/Debug/net6.0/OddLines.pdb
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/01.OddLines/obj/Debug/net6.0/OddLines.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/01.OddLines/obj/Debug/net6.0/ref/OddLines.dll

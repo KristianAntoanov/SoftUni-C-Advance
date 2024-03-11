@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{A0111750-17C3-4E92-9795-082558DA78D0}|Default">
+  <MonoDevelop.Ide.ItemProperties.06.SplitMergeBinaryFiles FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.07.FolderSize PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.ExtractSpecialBytes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.04.MergeFiles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LineNumbers/Program.cs">
+    <Files>
+      <File FileName="01.OddLines/Program.cs" />
+      <File FileName="LineNumbers/Program.cs" Line="24" Column="4" />
+      <File FileName="03.WordCount/Program.cs" />
+      <File FileName="07.FolderSize/Program.cs" />
+      <File FileName="04.MergeFiles/Program.cs" />
+      <File FileName="05.ExtractSpecialBytes/Program.cs" Line="1" Column="1" />
+      <File FileName="06.SplitMergeBinaryFiles/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Streams, Files and Directories - Lab" expanded="True">
+            <Node name="01.OddLines" expanded="True" />
+            <Node name="02.LineNumbers" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="03.WordCount" expanded="True" />
+            <Node name="04.MergeFiles" expanded="True" />
+            <Node name="05.ExtractSpecialBytes" expanded="True" />
+            <Node name="06.SplitMergeBinaryFiles" expanded="True" />
+            <Node name="07.FolderSize" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.03.WordCount PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.OddLines PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.LineNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

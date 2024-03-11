@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/03.WordCount/bin/Debug/net6.0/03.WordCount
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/03.WordCount/bin/Debug/net6.0/03.WordCount.deps.json
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/03.WordCount/bin/Debug/net6.0/03.WordCount.runtimeconfig.json
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/03.WordCount/bin/Debug/net6.0/03.WordCount.dll
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/03.WordCount/bin/Debug/net6.0/03.WordCount.pdb
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/03.WordCount/obj/Debug/net6.0/03.WordCount.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/03.WordCount/obj/Debug/net6.0/03.WordCount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/03.WordCount/obj/Debug/net6.0/03.WordCount.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/03.WordCount/obj/Debug/net6.0/03.WordCount.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/03.WordCount/obj/Debug/net6.0/03.WordCount.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/03.WordCount/obj/Debug/net6.0/03.WordCount.dll
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/03.WordCount/obj/Debug/net6.0/refint/03.WordCount.dll
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/03.WordCount/obj/Debug/net6.0/03.WordCount.pdb
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/03.WordCount/obj/Debug/net6.0/03.WordCount.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/03.WordCount/obj/Debug/net6.0/ref/03.WordCount.dll

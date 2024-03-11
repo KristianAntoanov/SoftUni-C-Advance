@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/04.MergeFiles/bin/Debug/net6.0/04.MergeFiles
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/04.MergeFiles/bin/Debug/net6.0/04.MergeFiles.deps.json
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/04.MergeFiles/bin/Debug/net6.0/04.MergeFiles.runtimeconfig.json
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/04.MergeFiles/bin/Debug/net6.0/04.MergeFiles.dll
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/04.MergeFiles/bin/Debug/net6.0/04.MergeFiles.pdb
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/04.MergeFiles/obj/Debug/net6.0/04.MergeFiles.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/04.MergeFiles/obj/Debug/net6.0/04.MergeFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/04.MergeFiles/obj/Debug/net6.0/04.MergeFiles.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/04.MergeFiles/obj/Debug/net6.0/04.MergeFiles.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/04.MergeFiles/obj/Debug/net6.0/04.MergeFiles.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/04.MergeFiles/obj/Debug/net6.0/04.MergeFiles.dll
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/04.MergeFiles/obj/Debug/net6.0/refint/04.MergeFiles.dll
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/04.MergeFiles/obj/Debug/net6.0/04.MergeFiles.pdb
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/04.MergeFiles/obj/Debug/net6.0/04.MergeFiles.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/04.MergeFiles/obj/Debug/net6.0/ref/04.MergeFiles.dll

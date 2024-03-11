@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/07.FolderSize/bin/Debug/net6.0/07.FolderSize
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/07.FolderSize/bin/Debug/net6.0/07.FolderSize.deps.json
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/07.FolderSize/bin/Debug/net6.0/07.FolderSize.runtimeconfig.json
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/07.FolderSize/bin/Debug/net6.0/07.FolderSize.dll
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/07.FolderSize/bin/Debug/net6.0/07.FolderSize.pdb
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/07.FolderSize/obj/Debug/net6.0/07.FolderSize.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/07.FolderSize/obj/Debug/net6.0/07.FolderSize.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/07.FolderSize/obj/Debug/net6.0/07.FolderSize.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/07.FolderSize/obj/Debug/net6.0/07.FolderSize.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/07.FolderSize/obj/Debug/net6.0/07.FolderSize.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/07.FolderSize/obj/Debug/net6.0/07.FolderSize.dll
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/07.FolderSize/obj/Debug/net6.0/refint/07.FolderSize.dll
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/07.FolderSize/obj/Debug/net6.0/07.FolderSize.pdb
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/07.FolderSize/obj/Debug/net6.0/07.FolderSize.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Streams, Files and Directories - Lab/07.FolderSize/obj/Debug/net6.0/ref/07.FolderSize.dll
