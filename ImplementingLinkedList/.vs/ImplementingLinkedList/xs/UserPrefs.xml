@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{C3EB3934-544F-4FD4-8B99-06DCCD9721CD}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CustomDoublyLinkedList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinkedList/StartUp.cs">
+    <Files>
+      <File FileName="LinkedList/StartUp.cs" Line="1" Column="1" />
+      <File FileName="LinkedList/DoublyLinkedList.cs" Line="15" Column="1" />
+      <File FileName="LinkedList/ListNode.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ImplementingLinkedList" expanded="True">
+            <Node name="CustomDoublyLinkedList" expanded="True">
+              <Node name="StartUp.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

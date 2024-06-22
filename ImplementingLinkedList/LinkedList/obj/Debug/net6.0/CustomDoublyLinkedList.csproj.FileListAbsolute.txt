@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/ImplementingLinkedList/LinkedList/bin/Debug/net6.0/CustomDoublyLinkedList
+/Users/kristianivanov/Projects/ImplementingLinkedList/LinkedList/bin/Debug/net6.0/CustomDoublyLinkedList.deps.json
+/Users/kristianivanov/Projects/ImplementingLinkedList/LinkedList/bin/Debug/net6.0/CustomDoublyLinkedList.runtimeconfig.json
+/Users/kristianivanov/Projects/ImplementingLinkedList/LinkedList/bin/Debug/net6.0/CustomDoublyLinkedList.dll
+/Users/kristianivanov/Projects/ImplementingLinkedList/LinkedList/bin/Debug/net6.0/CustomDoublyLinkedList.pdb
+/Users/kristianivanov/Projects/ImplementingLinkedList/LinkedList/obj/Debug/net6.0/CustomDoublyLinkedList.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/ImplementingLinkedList/LinkedList/obj/Debug/net6.0/CustomDoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/ImplementingLinkedList/LinkedList/obj/Debug/net6.0/CustomDoublyLinkedList.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/ImplementingLinkedList/LinkedList/obj/Debug/net6.0/CustomDoublyLinkedList.AssemblyInfo.cs
+/Users/kristianivanov/Projects/ImplementingLinkedList/LinkedList/obj/Debug/net6.0/CustomDoublyLinkedList.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/ImplementingLinkedList/LinkedList/obj/Debug/net6.0/CustomDoublyLinkedList.dll
+/Users/kristianivanov/Projects/ImplementingLinkedList/LinkedList/obj/Debug/net6.0/refint/CustomDoublyLinkedList.dll
+/Users/kristianivanov/Projects/ImplementingLinkedList/LinkedList/obj/Debug/net6.0/CustomDoublyLinkedList.pdb
+/Users/kristianivanov/Projects/ImplementingLinkedList/LinkedList/obj/Debug/net6.0/CustomDoublyLinkedList.genruntimeconfig.cache
+/Users/kristianivanov/Projects/ImplementingLinkedList/LinkedList/obj/Debug/net6.0/ref/CustomDoublyLinkedList.dll
