@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{6F12CC17-FDBE-4A1C-9829-9E453BB2100A}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.P03 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P04 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="P05/Program.cs">
+    <Files>
+      <File FileName="P01/Program.cs" />
+      <File FileName="P02/Program.cs" />
+      <File FileName="P03/Program.cs" />
+      <File FileName="P04/Program.cs" />
+      <File FileName="P05/Program.cs" Line="34" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Functional Programming - Lab" expanded="True">
+            <Node name="P01" expanded="True" />
+            <Node name="P02" expanded="True" />
+            <Node name="P03" expanded="True" />
+            <Node name="P04" expanded="True" />
+            <Node name="P05" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.P01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P02 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.P05 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
