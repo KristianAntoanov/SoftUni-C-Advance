@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{DB717489-D3C6-4C6F-9A83-8F55AA06AC8C}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarManufacturer/Program.cs">
+    <Files>
+      <File FileName="CarManufacturer/Program.cs" Line="24" Column="1" />
+      <File FileName="CarManufacturer/Car.cs" Line="12" Column="25" />
+      <File FileName="CarManufacturer/Engine.cs" Line="1" Column="1" />
+      <File FileName="CarManufacturer/Tire.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Defining Classes - Lab" expanded="True">
+            <Node name="CarManufacturer" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kristianivanov/Projects/Defining Classes - Lab/CarManufacturer/Program.cs" relfile="CarManufacturer/Program.cs" line="44" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CarManufacturer PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

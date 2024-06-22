@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/CarSalesman/bin/Debug/net6.0/CarSalesman
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/CarSalesman/bin/Debug/net6.0/CarSalesman.deps.json
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/CarSalesman/bin/Debug/net6.0/CarSalesman.runtimeconfig.json
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/CarSalesman/bin/Debug/net6.0/CarSalesman.dll
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/CarSalesman/bin/Debug/net6.0/CarSalesman.pdb
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/CarSalesman/obj/Debug/net6.0/CarSalesman.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/CarSalesman/obj/Debug/net6.0/CarSalesman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/CarSalesman/obj/Debug/net6.0/CarSalesman.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/CarSalesman/obj/Debug/net6.0/CarSalesman.AssemblyInfo.cs
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/CarSalesman/obj/Debug/net6.0/CarSalesman.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/CarSalesman/obj/Debug/net6.0/CarSalesman.dll
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/CarSalesman/obj/Debug/net6.0/refint/CarSalesman.dll
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/CarSalesman/obj/Debug/net6.0/CarSalesman.pdb
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/CarSalesman/obj/Debug/net6.0/CarSalesman.genruntimeconfig.cache
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/CarSalesman/obj/Debug/net6.0/ref/CarSalesman.dll

@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/StartUp/bin/Debug/net6.0/StartUp
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/StartUp/bin/Debug/net6.0/StartUp.deps.json
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/StartUp/bin/Debug/net6.0/StartUp.runtimeconfig.json
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/StartUp/bin/Debug/net6.0/StartUp.dll
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/StartUp/bin/Debug/net6.0/StartUp.pdb
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/StartUp/obj/Debug/net6.0/StartUp.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/StartUp/obj/Debug/net6.0/StartUp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/StartUp/obj/Debug/net6.0/StartUp.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/StartUp/obj/Debug/net6.0/StartUp.AssemblyInfo.cs
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/StartUp/obj/Debug/net6.0/StartUp.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/StartUp/obj/Debug/net6.0/StartUp.dll
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/StartUp/obj/Debug/net6.0/refint/StartUp.dll
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/StartUp/obj/Debug/net6.0/StartUp.pdb
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/StartUp/obj/Debug/net6.0/StartUp.genruntimeconfig.cache
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/StartUp/obj/Debug/net6.0/ref/StartUp.dll

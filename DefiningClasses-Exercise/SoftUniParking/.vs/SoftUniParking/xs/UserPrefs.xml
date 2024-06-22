@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{EAAD3DBB-F743-4A68-BAAB-F40EAEB1BB4D}|Default">
+  <MonoDevelop.Ide.ItemProperties.SoftUniParking PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StartUp.cs">
+    <Files>
+      <File FileName="StartUp.cs" Line="17" Column="1" />
+      <File FileName="Parking.cs" Line="14" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SoftUniParking" expanded="True">
+            <Node name="SoftUniParking" expanded="True">
+              <Node name="StartUp.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{487A0D98-F16B-45E5-9123-254F05834A8C}|Default">
+  <MonoDevelop.Ide.ItemProperties.CarSalesman PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PokemonTrainer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PokemonTrainer/Pokemon.cs">
+    <Files>
+      <File FileName="PokemonTrainer/StartUp.cs" Line="8" Column="47" />
+      <File FileName="PokemonTrainer/Pokemon.cs" Line="1" Column="1" />
+      <File FileName="PokemonTrainer/Trainer.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DefiningClasses-Exercise" expanded="True">
+            <Node name="DefiningClasses" expanded="True" />
+            <Node name="PokemonTrainer" expanded="True">
+              <Node name="Pokemon.cs" selected="True" />
+            </Node>
+            <Node name="StartUp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kristianivanov/Projects/DefiningClasses-Exercise/StartUp/StartUp.cs" relfile="StartUp/StartUp.cs" line="32" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.StartUp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DefiningClasses PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

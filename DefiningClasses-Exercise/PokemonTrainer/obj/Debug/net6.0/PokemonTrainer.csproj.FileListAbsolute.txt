@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/PokemonTrainer/bin/Debug/net6.0/PokemonTrainer
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/PokemonTrainer/bin/Debug/net6.0/PokemonTrainer.deps.json
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/PokemonTrainer/bin/Debug/net6.0/PokemonTrainer.runtimeconfig.json
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/PokemonTrainer/bin/Debug/net6.0/PokemonTrainer.dll
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/PokemonTrainer/bin/Debug/net6.0/PokemonTrainer.pdb
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/PokemonTrainer/obj/Debug/net6.0/PokemonTrainer.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/PokemonTrainer/obj/Debug/net6.0/PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/PokemonTrainer/obj/Debug/net6.0/PokemonTrainer.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/PokemonTrainer/obj/Debug/net6.0/PokemonTrainer.AssemblyInfo.cs
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/PokemonTrainer/obj/Debug/net6.0/PokemonTrainer.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/PokemonTrainer/obj/Debug/net6.0/PokemonTrainer.dll
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/PokemonTrainer/obj/Debug/net6.0/refint/PokemonTrainer.dll
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/PokemonTrainer/obj/Debug/net6.0/PokemonTrainer.pdb
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/PokemonTrainer/obj/Debug/net6.0/PokemonTrainer.genruntimeconfig.cache
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/PokemonTrainer/obj/Debug/net6.0/ref/PokemonTrainer.dll

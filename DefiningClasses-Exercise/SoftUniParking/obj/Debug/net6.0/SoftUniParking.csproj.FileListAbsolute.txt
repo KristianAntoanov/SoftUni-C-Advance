@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/SoftUniParking/bin/Debug/net6.0/SoftUniParking
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/SoftUniParking/bin/Debug/net6.0/SoftUniParking.deps.json
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/SoftUniParking/bin/Debug/net6.0/SoftUniParking.runtimeconfig.json
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/SoftUniParking/bin/Debug/net6.0/SoftUniParking.dll
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/SoftUniParking/bin/Debug/net6.0/SoftUniParking.pdb
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/SoftUniParking/obj/Debug/net6.0/SoftUniParking.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/SoftUniParking/obj/Debug/net6.0/SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/SoftUniParking/obj/Debug/net6.0/SoftUniParking.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/SoftUniParking/obj/Debug/net6.0/SoftUniParking.AssemblyInfo.cs
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/SoftUniParking/obj/Debug/net6.0/SoftUniParking.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/SoftUniParking/obj/Debug/net6.0/SoftUniParking.dll
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/SoftUniParking/obj/Debug/net6.0/refint/SoftUniParking.dll
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/SoftUniParking/obj/Debug/net6.0/SoftUniParking.pdb
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/SoftUniParking/obj/Debug/net6.0/SoftUniParking.genruntimeconfig.cache
+/Users/kristianivanov/Projects/DefiningClasses-Exercise/SoftUniParking/obj/Debug/net6.0/ref/SoftUniParking.dll
