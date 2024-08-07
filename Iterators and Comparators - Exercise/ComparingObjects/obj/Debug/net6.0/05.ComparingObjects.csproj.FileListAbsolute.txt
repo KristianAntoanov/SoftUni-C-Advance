@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ComparingObjects/bin/Debug/net6.0/05.ComparingObjects
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ComparingObjects/bin/Debug/net6.0/05.ComparingObjects.deps.json
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ComparingObjects/bin/Debug/net6.0/05.ComparingObjects.runtimeconfig.json
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ComparingObjects/bin/Debug/net6.0/05.ComparingObjects.dll
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ComparingObjects/bin/Debug/net6.0/05.ComparingObjects.pdb
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ComparingObjects/obj/Debug/net6.0/05.ComparingObjects.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ComparingObjects/obj/Debug/net6.0/05.ComparingObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ComparingObjects/obj/Debug/net6.0/05.ComparingObjects.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ComparingObjects/obj/Debug/net6.0/05.ComparingObjects.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ComparingObjects/obj/Debug/net6.0/05.ComparingObjects.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ComparingObjects/obj/Debug/net6.0/05.ComparingObjects.dll
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ComparingObjects/obj/Debug/net6.0/refint/05.ComparingObjects.dll
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ComparingObjects/obj/Debug/net6.0/05.ComparingObjects.pdb
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ComparingObjects/obj/Debug/net6.0/05.ComparingObjects.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ComparingObjects/obj/Debug/net6.0/ref/05.ComparingObjects.dll

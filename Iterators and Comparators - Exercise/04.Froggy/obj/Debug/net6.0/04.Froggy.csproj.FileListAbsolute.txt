@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/04.Froggy/bin/Debug/net6.0/04.Froggy
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/04.Froggy/bin/Debug/net6.0/04.Froggy.deps.json
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/04.Froggy/bin/Debug/net6.0/04.Froggy.runtimeconfig.json
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/04.Froggy/bin/Debug/net6.0/04.Froggy.dll
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/04.Froggy/bin/Debug/net6.0/04.Froggy.pdb
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/04.Froggy/obj/Debug/net6.0/04.Froggy.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/04.Froggy/obj/Debug/net6.0/04.Froggy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/04.Froggy/obj/Debug/net6.0/04.Froggy.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/04.Froggy/obj/Debug/net6.0/04.Froggy.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/04.Froggy/obj/Debug/net6.0/04.Froggy.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/04.Froggy/obj/Debug/net6.0/04.Froggy.dll
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/04.Froggy/obj/Debug/net6.0/refint/04.Froggy.dll
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/04.Froggy/obj/Debug/net6.0/04.Froggy.pdb
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/04.Froggy/obj/Debug/net6.0/04.Froggy.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/04.Froggy/obj/Debug/net6.0/ref/04.Froggy.dll

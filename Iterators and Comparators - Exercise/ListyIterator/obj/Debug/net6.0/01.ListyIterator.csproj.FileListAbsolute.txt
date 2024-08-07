@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ListyIterator/bin/Debug/net6.0/01.ListyIterator
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ListyIterator/bin/Debug/net6.0/01.ListyIterator.deps.json
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ListyIterator/bin/Debug/net6.0/01.ListyIterator.runtimeconfig.json
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ListyIterator/bin/Debug/net6.0/01.ListyIterator.dll
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ListyIterator/bin/Debug/net6.0/01.ListyIterator.pdb
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ListyIterator/obj/Debug/net6.0/01.ListyIterator.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ListyIterator/obj/Debug/net6.0/01.ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ListyIterator/obj/Debug/net6.0/01.ListyIterator.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ListyIterator/obj/Debug/net6.0/01.ListyIterator.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ListyIterator/obj/Debug/net6.0/01.ListyIterator.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ListyIterator/obj/Debug/net6.0/01.ListyIterator.dll
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ListyIterator/obj/Debug/net6.0/refint/01.ListyIterator.dll
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ListyIterator/obj/Debug/net6.0/01.ListyIterator.pdb
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ListyIterator/obj/Debug/net6.0/01.ListyIterator.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/ListyIterator/obj/Debug/net6.0/ref/01.ListyIterator.dll

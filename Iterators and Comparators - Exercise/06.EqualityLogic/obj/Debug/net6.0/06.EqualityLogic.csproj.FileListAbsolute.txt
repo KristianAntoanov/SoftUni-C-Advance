@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/06.EqualityLogic/bin/Debug/net6.0/06.EqualityLogic
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/06.EqualityLogic/bin/Debug/net6.0/06.EqualityLogic.deps.json
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/06.EqualityLogic/bin/Debug/net6.0/06.EqualityLogic.runtimeconfig.json
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/06.EqualityLogic/bin/Debug/net6.0/06.EqualityLogic.dll
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/06.EqualityLogic/bin/Debug/net6.0/06.EqualityLogic.pdb
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/06.EqualityLogic/obj/Debug/net6.0/06.EqualityLogic.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/06.EqualityLogic/obj/Debug/net6.0/06.EqualityLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/06.EqualityLogic/obj/Debug/net6.0/06.EqualityLogic.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/06.EqualityLogic/obj/Debug/net6.0/06.EqualityLogic.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/06.EqualityLogic/obj/Debug/net6.0/06.EqualityLogic.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/06.EqualityLogic/obj/Debug/net6.0/06.EqualityLogic.dll
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/06.EqualityLogic/obj/Debug/net6.0/refint/06.EqualityLogic.dll
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/06.EqualityLogic/obj/Debug/net6.0/06.EqualityLogic.pdb
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/06.EqualityLogic/obj/Debug/net6.0/06.EqualityLogic.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Iterators and Comparators - Exercise/06.EqualityLogic/obj/Debug/net6.0/ref/06.EqualityLogic.dll

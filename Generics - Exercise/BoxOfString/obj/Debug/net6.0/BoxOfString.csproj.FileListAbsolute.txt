@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Generics - Exercise/BoxOfString/bin/Debug/net6.0/BoxOfString
+/Users/kristianivanov/Projects/Generics - Exercise/BoxOfString/bin/Debug/net6.0/BoxOfString.deps.json
+/Users/kristianivanov/Projects/Generics - Exercise/BoxOfString/bin/Debug/net6.0/BoxOfString.runtimeconfig.json
+/Users/kristianivanov/Projects/Generics - Exercise/BoxOfString/bin/Debug/net6.0/BoxOfString.dll
+/Users/kristianivanov/Projects/Generics - Exercise/BoxOfString/bin/Debug/net6.0/BoxOfString.pdb
+/Users/kristianivanov/Projects/Generics - Exercise/BoxOfString/obj/Debug/net6.0/BoxOfString.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Generics - Exercise/BoxOfString/obj/Debug/net6.0/BoxOfString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Generics - Exercise/BoxOfString/obj/Debug/net6.0/BoxOfString.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Generics - Exercise/BoxOfString/obj/Debug/net6.0/BoxOfString.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Generics - Exercise/BoxOfString/obj/Debug/net6.0/BoxOfString.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Generics - Exercise/BoxOfString/obj/Debug/net6.0/BoxOfString.dll
+/Users/kristianivanov/Projects/Generics - Exercise/BoxOfString/obj/Debug/net6.0/refint/BoxOfString.dll
+/Users/kristianivanov/Projects/Generics - Exercise/BoxOfString/obj/Debug/net6.0/BoxOfString.pdb
+/Users/kristianivanov/Projects/Generics - Exercise/BoxOfString/obj/Debug/net6.0/BoxOfString.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Generics - Exercise/BoxOfString/obj/Debug/net6.0/ref/BoxOfString.dll

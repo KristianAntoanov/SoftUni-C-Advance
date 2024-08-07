@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Generics - Lab/P01/bin/Debug/net6.0/BoxOfT
+/Users/kristianivanov/Projects/Generics - Lab/P01/bin/Debug/net6.0/BoxOfT.deps.json
+/Users/kristianivanov/Projects/Generics - Lab/P01/bin/Debug/net6.0/BoxOfT.runtimeconfig.json
+/Users/kristianivanov/Projects/Generics - Lab/P01/bin/Debug/net6.0/BoxOfT.dll
+/Users/kristianivanov/Projects/Generics - Lab/P01/bin/Debug/net6.0/BoxOfT.pdb
+/Users/kristianivanov/Projects/Generics - Lab/P01/obj/Debug/net6.0/BoxOfT.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Generics - Lab/P01/obj/Debug/net6.0/BoxOfT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Generics - Lab/P01/obj/Debug/net6.0/BoxOfT.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Generics - Lab/P01/obj/Debug/net6.0/BoxOfT.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Generics - Lab/P01/obj/Debug/net6.0/BoxOfT.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Generics - Lab/P01/obj/Debug/net6.0/BoxOfT.dll
+/Users/kristianivanov/Projects/Generics - Lab/P01/obj/Debug/net6.0/refint/BoxOfT.dll
+/Users/kristianivanov/Projects/Generics - Lab/P01/obj/Debug/net6.0/BoxOfT.pdb
+/Users/kristianivanov/Projects/Generics - Lab/P01/obj/Debug/net6.0/BoxOfT.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Generics - Lab/P01/obj/Debug/net6.0/ref/BoxOfT.dll

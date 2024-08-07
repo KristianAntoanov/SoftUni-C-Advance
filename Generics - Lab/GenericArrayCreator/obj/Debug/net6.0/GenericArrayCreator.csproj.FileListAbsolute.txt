@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Generics - Lab/GenericArrayCreator/bin/Debug/net6.0/GenericArrayCreator
+/Users/kristianivanov/Projects/Generics - Lab/GenericArrayCreator/bin/Debug/net6.0/GenericArrayCreator.deps.json
+/Users/kristianivanov/Projects/Generics - Lab/GenericArrayCreator/bin/Debug/net6.0/GenericArrayCreator.runtimeconfig.json
+/Users/kristianivanov/Projects/Generics - Lab/GenericArrayCreator/bin/Debug/net6.0/GenericArrayCreator.dll
+/Users/kristianivanov/Projects/Generics - Lab/GenericArrayCreator/bin/Debug/net6.0/GenericArrayCreator.pdb
+/Users/kristianivanov/Projects/Generics - Lab/GenericArrayCreator/obj/Debug/net6.0/GenericArrayCreator.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Generics - Lab/GenericArrayCreator/obj/Debug/net6.0/GenericArrayCreator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Generics - Lab/GenericArrayCreator/obj/Debug/net6.0/GenericArrayCreator.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Generics - Lab/GenericArrayCreator/obj/Debug/net6.0/GenericArrayCreator.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Generics - Lab/GenericArrayCreator/obj/Debug/net6.0/GenericArrayCreator.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Generics - Lab/GenericArrayCreator/obj/Debug/net6.0/GenericArrayCreator.dll
+/Users/kristianivanov/Projects/Generics - Lab/GenericArrayCreator/obj/Debug/net6.0/refint/GenericArrayCreator.dll
+/Users/kristianivanov/Projects/Generics - Lab/GenericArrayCreator/obj/Debug/net6.0/GenericArrayCreator.pdb
+/Users/kristianivanov/Projects/Generics - Lab/GenericArrayCreator/obj/Debug/net6.0/GenericArrayCreator.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Generics - Lab/GenericArrayCreator/obj/Debug/net6.0/ref/GenericArrayCreator.dll

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8C18C502-6065-4A8A-AED1-4EFF04E6A20C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tuple/StartUp.cs">
+    <Files>
+      <File FileName="Tuple/Program.cs" Line="19" Column="110" />
+      <File FileName="Tuple/CustomTuplle.cs" Line="22" Column="50" />
+      <File FileName="BoxOfString/Box.cs" Line="44" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Generics - Exercise" expanded="True">
+            <Node name="Tuple" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Tuple PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.BoxOfString PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
