@@ -1,0 +1,58 @@
+﻿<Properties StartupConfiguration="{A59DFC6E-587F-4BBA-935D-595B6A1B0FA0}|Default">
+  <MonoDevelop.Ide.ItemProperties.02.TheSquirrel PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.test FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.TheGambler PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.OffroadChallenge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.P02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.Worms_226Holes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02._220FishingCompetition PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kristianivanov/Projects/ExamPrep/02. FishingCompetition/Program.cs" relfile="02. FishingCompetition/Program.cs" line="106" column="1" />
+      <Breakpoint file="/Users/kristianivanov/Projects/ExamPrep/02.BlindMan’sBuff/Program.cs" relfile="02.BlindMan’sBuff/Program.cs" line="41" column="1" />
+      <Breakpoint file="/Users/kristianivanov/Projects/ExamPrep/01.ApocalypsePreparation/Program.cs" relfile="01.ApocalypsePreparation/Program.cs" line="21" column="1" />
+      <Breakpoint file="/Users/kristianivanov/Projects/ExamPrep/02.NavyBattle/Program.cs" relfile="02.NavyBattle/Program.cs" line="34" column="1" />
+      <Breakpoint file="/Users/kristianivanov/Projects/ExamPrep/P02/Program.cs" relfile="P02/Program.cs" line="40" column="1" />
+      <Breakpoint file="/Users/kristianivanov/Projects/ExamPrep/P01/Program.cs" relfile="P01/Program.cs" line="19" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.01.ApocalypsePreparation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.BlindMan_42019sBuff PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.02.NavyBattle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.RubberDuckDebuggers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.DeliveryBoy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="P02/Program.cs">
+    <Files>
+      <File FileName="P01/Program.cs" />
+      <File FileName="P02/Program.cs" Line="146" Column="18" />
+      <File FileName="02.TheSquirrel/Program.cs" />
+      <File FileName="02.TheGambler/Program.cs" />
+      <File FileName="02.NavyBattle/Program.cs" />
+      <File FileName="test/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExamPrep" expanded="True">
+            <Node name="P01" expanded="True" />
+            <Node name="P02" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="ExamPrep" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.01.ClimbthePeaks PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.MonsterExtermination PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

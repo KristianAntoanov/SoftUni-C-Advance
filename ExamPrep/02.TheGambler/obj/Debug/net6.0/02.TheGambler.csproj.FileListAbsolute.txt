@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/ExamPrep/02.TheGambler/bin/Debug/net6.0/02.TheGambler
+/Users/kristianivanov/Projects/ExamPrep/02.TheGambler/bin/Debug/net6.0/02.TheGambler.deps.json
+/Users/kristianivanov/Projects/ExamPrep/02.TheGambler/bin/Debug/net6.0/02.TheGambler.runtimeconfig.json
+/Users/kristianivanov/Projects/ExamPrep/02.TheGambler/bin/Debug/net6.0/02.TheGambler.dll
+/Users/kristianivanov/Projects/ExamPrep/02.TheGambler/bin/Debug/net6.0/02.TheGambler.pdb
+/Users/kristianivanov/Projects/ExamPrep/02.TheGambler/obj/Debug/net6.0/02.TheGambler.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/ExamPrep/02.TheGambler/obj/Debug/net6.0/02.TheGambler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/ExamPrep/02.TheGambler/obj/Debug/net6.0/02.TheGambler.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/ExamPrep/02.TheGambler/obj/Debug/net6.0/02.TheGambler.AssemblyInfo.cs
+/Users/kristianivanov/Projects/ExamPrep/02.TheGambler/obj/Debug/net6.0/02.TheGambler.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/ExamPrep/02.TheGambler/obj/Debug/net6.0/02.TheGambler.dll
+/Users/kristianivanov/Projects/ExamPrep/02.TheGambler/obj/Debug/net6.0/refint/02.TheGambler.dll
+/Users/kristianivanov/Projects/ExamPrep/02.TheGambler/obj/Debug/net6.0/02.TheGambler.pdb
+/Users/kristianivanov/Projects/ExamPrep/02.TheGambler/obj/Debug/net6.0/02.TheGambler.genruntimeconfig.cache
+/Users/kristianivanov/Projects/ExamPrep/02.TheGambler/obj/Debug/net6.0/ref/02.TheGambler.dll

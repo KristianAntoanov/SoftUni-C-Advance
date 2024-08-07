@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/ExamPrep/02.TheSquirrel/bin/Debug/net6.0/02.TheSquirrel
+/Users/kristianivanov/Projects/ExamPrep/02.TheSquirrel/bin/Debug/net6.0/02.TheSquirrel.deps.json
+/Users/kristianivanov/Projects/ExamPrep/02.TheSquirrel/bin/Debug/net6.0/02.TheSquirrel.runtimeconfig.json
+/Users/kristianivanov/Projects/ExamPrep/02.TheSquirrel/bin/Debug/net6.0/02.TheSquirrel.dll
+/Users/kristianivanov/Projects/ExamPrep/02.TheSquirrel/bin/Debug/net6.0/02.TheSquirrel.pdb
+/Users/kristianivanov/Projects/ExamPrep/02.TheSquirrel/obj/Debug/net6.0/02.TheSquirrel.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/ExamPrep/02.TheSquirrel/obj/Debug/net6.0/02.TheSquirrel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/ExamPrep/02.TheSquirrel/obj/Debug/net6.0/02.TheSquirrel.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/ExamPrep/02.TheSquirrel/obj/Debug/net6.0/02.TheSquirrel.AssemblyInfo.cs
+/Users/kristianivanov/Projects/ExamPrep/02.TheSquirrel/obj/Debug/net6.0/02.TheSquirrel.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/ExamPrep/02.TheSquirrel/obj/Debug/net6.0/02.TheSquirrel.dll
+/Users/kristianivanov/Projects/ExamPrep/02.TheSquirrel/obj/Debug/net6.0/refint/02.TheSquirrel.dll
+/Users/kristianivanov/Projects/ExamPrep/02.TheSquirrel/obj/Debug/net6.0/02.TheSquirrel.pdb
+/Users/kristianivanov/Projects/ExamPrep/02.TheSquirrel/obj/Debug/net6.0/02.TheSquirrel.genruntimeconfig.cache
+/Users/kristianivanov/Projects/ExamPrep/02.TheSquirrel/obj/Debug/net6.0/ref/02.TheSquirrel.dll

@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/ExamPrep/02.NavyBattle/bin/Debug/net6.0/02.NavyBattle
+/Users/kristianivanov/Projects/ExamPrep/02.NavyBattle/bin/Debug/net6.0/02.NavyBattle.deps.json
+/Users/kristianivanov/Projects/ExamPrep/02.NavyBattle/bin/Debug/net6.0/02.NavyBattle.runtimeconfig.json
+/Users/kristianivanov/Projects/ExamPrep/02.NavyBattle/bin/Debug/net6.0/02.NavyBattle.dll
+/Users/kristianivanov/Projects/ExamPrep/02.NavyBattle/bin/Debug/net6.0/02.NavyBattle.pdb
+/Users/kristianivanov/Projects/ExamPrep/02.NavyBattle/obj/Debug/net6.0/02.NavyBattle.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/ExamPrep/02.NavyBattle/obj/Debug/net6.0/02.NavyBattle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/ExamPrep/02.NavyBattle/obj/Debug/net6.0/02.NavyBattle.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/ExamPrep/02.NavyBattle/obj/Debug/net6.0/02.NavyBattle.AssemblyInfo.cs
+/Users/kristianivanov/Projects/ExamPrep/02.NavyBattle/obj/Debug/net6.0/02.NavyBattle.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/ExamPrep/02.NavyBattle/obj/Debug/net6.0/02.NavyBattle.dll
+/Users/kristianivanov/Projects/ExamPrep/02.NavyBattle/obj/Debug/net6.0/refint/02.NavyBattle.dll
+/Users/kristianivanov/Projects/ExamPrep/02.NavyBattle/obj/Debug/net6.0/02.NavyBattle.pdb
+/Users/kristianivanov/Projects/ExamPrep/02.NavyBattle/obj/Debug/net6.0/02.NavyBattle.genruntimeconfig.cache
+/Users/kristianivanov/Projects/ExamPrep/02.NavyBattle/obj/Debug/net6.0/ref/02.NavyBattle.dll

@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/ExamPrep/01.MonsterExtermination/bin/Debug/net6.0/01.MonsterExtermination
+/Users/kristianivanov/Projects/ExamPrep/01.MonsterExtermination/bin/Debug/net6.0/01.MonsterExtermination.deps.json
+/Users/kristianivanov/Projects/ExamPrep/01.MonsterExtermination/bin/Debug/net6.0/01.MonsterExtermination.runtimeconfig.json
+/Users/kristianivanov/Projects/ExamPrep/01.MonsterExtermination/bin/Debug/net6.0/01.MonsterExtermination.dll
+/Users/kristianivanov/Projects/ExamPrep/01.MonsterExtermination/bin/Debug/net6.0/01.MonsterExtermination.pdb
+/Users/kristianivanov/Projects/ExamPrep/01.MonsterExtermination/obj/Debug/net6.0/01.MonsterExtermination.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/ExamPrep/01.MonsterExtermination/obj/Debug/net6.0/01.MonsterExtermination.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/ExamPrep/01.MonsterExtermination/obj/Debug/net6.0/01.MonsterExtermination.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/ExamPrep/01.MonsterExtermination/obj/Debug/net6.0/01.MonsterExtermination.AssemblyInfo.cs
+/Users/kristianivanov/Projects/ExamPrep/01.MonsterExtermination/obj/Debug/net6.0/01.MonsterExtermination.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/ExamPrep/01.MonsterExtermination/obj/Debug/net6.0/01.MonsterExtermination.dll
+/Users/kristianivanov/Projects/ExamPrep/01.MonsterExtermination/obj/Debug/net6.0/refint/01.MonsterExtermination.dll
+/Users/kristianivanov/Projects/ExamPrep/01.MonsterExtermination/obj/Debug/net6.0/01.MonsterExtermination.pdb
+/Users/kristianivanov/Projects/ExamPrep/01.MonsterExtermination/obj/Debug/net6.0/01.MonsterExtermination.genruntimeconfig.cache
+/Users/kristianivanov/Projects/ExamPrep/01.MonsterExtermination/obj/Debug/net6.0/ref/01.MonsterExtermination.dll

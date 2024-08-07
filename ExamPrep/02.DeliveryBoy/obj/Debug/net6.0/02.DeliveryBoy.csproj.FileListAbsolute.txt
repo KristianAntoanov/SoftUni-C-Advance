@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/ExamPrep/02.DeliveryBoy/bin/Debug/net6.0/02.DeliveryBoy
+/Users/kristianivanov/Projects/ExamPrep/02.DeliveryBoy/bin/Debug/net6.0/02.DeliveryBoy.deps.json
+/Users/kristianivanov/Projects/ExamPrep/02.DeliveryBoy/bin/Debug/net6.0/02.DeliveryBoy.runtimeconfig.json
+/Users/kristianivanov/Projects/ExamPrep/02.DeliveryBoy/bin/Debug/net6.0/02.DeliveryBoy.dll
+/Users/kristianivanov/Projects/ExamPrep/02.DeliveryBoy/bin/Debug/net6.0/02.DeliveryBoy.pdb
+/Users/kristianivanov/Projects/ExamPrep/02.DeliveryBoy/obj/Debug/net6.0/02.DeliveryBoy.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/ExamPrep/02.DeliveryBoy/obj/Debug/net6.0/02.DeliveryBoy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/ExamPrep/02.DeliveryBoy/obj/Debug/net6.0/02.DeliveryBoy.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/ExamPrep/02.DeliveryBoy/obj/Debug/net6.0/02.DeliveryBoy.AssemblyInfo.cs
+/Users/kristianivanov/Projects/ExamPrep/02.DeliveryBoy/obj/Debug/net6.0/02.DeliveryBoy.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/ExamPrep/02.DeliveryBoy/obj/Debug/net6.0/02.DeliveryBoy.dll
+/Users/kristianivanov/Projects/ExamPrep/02.DeliveryBoy/obj/Debug/net6.0/refint/02.DeliveryBoy.dll
+/Users/kristianivanov/Projects/ExamPrep/02.DeliveryBoy/obj/Debug/net6.0/02.DeliveryBoy.pdb
+/Users/kristianivanov/Projects/ExamPrep/02.DeliveryBoy/obj/Debug/net6.0/02.DeliveryBoy.genruntimeconfig.cache
+/Users/kristianivanov/Projects/ExamPrep/02.DeliveryBoy/obj/Debug/net6.0/ref/02.DeliveryBoy.dll

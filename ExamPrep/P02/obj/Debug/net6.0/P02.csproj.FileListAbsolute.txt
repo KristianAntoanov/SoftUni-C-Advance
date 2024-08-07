@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/ExamPrep/P02/bin/Debug/net6.0/P02
+/Users/kristianivanov/Projects/ExamPrep/P02/bin/Debug/net6.0/P02.deps.json
+/Users/kristianivanov/Projects/ExamPrep/P02/bin/Debug/net6.0/P02.runtimeconfig.json
+/Users/kristianivanov/Projects/ExamPrep/P02/bin/Debug/net6.0/P02.dll
+/Users/kristianivanov/Projects/ExamPrep/P02/bin/Debug/net6.0/P02.pdb
+/Users/kristianivanov/Projects/ExamPrep/P02/obj/Debug/net6.0/P02.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/ExamPrep/P02/obj/Debug/net6.0/P02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/ExamPrep/P02/obj/Debug/net6.0/P02.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/ExamPrep/P02/obj/Debug/net6.0/P02.AssemblyInfo.cs
+/Users/kristianivanov/Projects/ExamPrep/P02/obj/Debug/net6.0/P02.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/ExamPrep/P02/obj/Debug/net6.0/P02.dll
+/Users/kristianivanov/Projects/ExamPrep/P02/obj/Debug/net6.0/refint/P02.dll
+/Users/kristianivanov/Projects/ExamPrep/P02/obj/Debug/net6.0/P02.pdb
+/Users/kristianivanov/Projects/ExamPrep/P02/obj/Debug/net6.0/P02.genruntimeconfig.cache
+/Users/kristianivanov/Projects/ExamPrep/P02/obj/Debug/net6.0/ref/P02.dll

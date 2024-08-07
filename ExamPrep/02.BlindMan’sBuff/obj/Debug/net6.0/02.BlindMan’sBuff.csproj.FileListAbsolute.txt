@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/ExamPrep/02.BlindMan’sBuff/bin/Debug/net6.0/02.BlindMan’sBuff
+/Users/kristianivanov/Projects/ExamPrep/02.BlindMan’sBuff/bin/Debug/net6.0/02.BlindMan’sBuff.deps.json
+/Users/kristianivanov/Projects/ExamPrep/02.BlindMan’sBuff/bin/Debug/net6.0/02.BlindMan’sBuff.runtimeconfig.json
+/Users/kristianivanov/Projects/ExamPrep/02.BlindMan’sBuff/bin/Debug/net6.0/02.BlindMan’sBuff.dll
+/Users/kristianivanov/Projects/ExamPrep/02.BlindMan’sBuff/bin/Debug/net6.0/02.BlindMan’sBuff.pdb
+/Users/kristianivanov/Projects/ExamPrep/02.BlindMan’sBuff/obj/Debug/net6.0/02.BlindMan’sBuff.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/ExamPrep/02.BlindMan’sBuff/obj/Debug/net6.0/02.BlindMan’sBuff.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/ExamPrep/02.BlindMan’sBuff/obj/Debug/net6.0/02.BlindMan’sBuff.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/ExamPrep/02.BlindMan’sBuff/obj/Debug/net6.0/02.BlindMan’sBuff.AssemblyInfo.cs
+/Users/kristianivanov/Projects/ExamPrep/02.BlindMan’sBuff/obj/Debug/net6.0/02.BlindMan’sBuff.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/ExamPrep/02.BlindMan’sBuff/obj/Debug/net6.0/02.BlindMan’sBuff.dll
+/Users/kristianivanov/Projects/ExamPrep/02.BlindMan’sBuff/obj/Debug/net6.0/refint/02.BlindMan’sBuff.dll
+/Users/kristianivanov/Projects/ExamPrep/02.BlindMan’sBuff/obj/Debug/net6.0/02.BlindMan’sBuff.pdb
+/Users/kristianivanov/Projects/ExamPrep/02.BlindMan’sBuff/obj/Debug/net6.0/02.BlindMan’sBuff.genruntimeconfig.cache
+/Users/kristianivanov/Projects/ExamPrep/02.BlindMan’sBuff/obj/Debug/net6.0/ref/02.BlindMan’sBuff.dll

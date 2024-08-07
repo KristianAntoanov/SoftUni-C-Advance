@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/ExamPrep/01.RubberDuckDebuggers/bin/Debug/net6.0/01.RubberDuckDebuggers
+/Users/kristianivanov/Projects/ExamPrep/01.RubberDuckDebuggers/bin/Debug/net6.0/01.RubberDuckDebuggers.deps.json
+/Users/kristianivanov/Projects/ExamPrep/01.RubberDuckDebuggers/bin/Debug/net6.0/01.RubberDuckDebuggers.runtimeconfig.json
+/Users/kristianivanov/Projects/ExamPrep/01.RubberDuckDebuggers/bin/Debug/net6.0/01.RubberDuckDebuggers.dll
+/Users/kristianivanov/Projects/ExamPrep/01.RubberDuckDebuggers/bin/Debug/net6.0/01.RubberDuckDebuggers.pdb
+/Users/kristianivanov/Projects/ExamPrep/01.RubberDuckDebuggers/obj/Debug/net6.0/01.RubberDuckDebuggers.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/ExamPrep/01.RubberDuckDebuggers/obj/Debug/net6.0/01.RubberDuckDebuggers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/ExamPrep/01.RubberDuckDebuggers/obj/Debug/net6.0/01.RubberDuckDebuggers.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/ExamPrep/01.RubberDuckDebuggers/obj/Debug/net6.0/01.RubberDuckDebuggers.AssemblyInfo.cs
+/Users/kristianivanov/Projects/ExamPrep/01.RubberDuckDebuggers/obj/Debug/net6.0/01.RubberDuckDebuggers.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/ExamPrep/01.RubberDuckDebuggers/obj/Debug/net6.0/01.RubberDuckDebuggers.dll
+/Users/kristianivanov/Projects/ExamPrep/01.RubberDuckDebuggers/obj/Debug/net6.0/refint/01.RubberDuckDebuggers.dll
+/Users/kristianivanov/Projects/ExamPrep/01.RubberDuckDebuggers/obj/Debug/net6.0/01.RubberDuckDebuggers.pdb
+/Users/kristianivanov/Projects/ExamPrep/01.RubberDuckDebuggers/obj/Debug/net6.0/01.RubberDuckDebuggers.genruntimeconfig.cache
+/Users/kristianivanov/Projects/ExamPrep/01.RubberDuckDebuggers/obj/Debug/net6.0/ref/01.RubberDuckDebuggers.dll

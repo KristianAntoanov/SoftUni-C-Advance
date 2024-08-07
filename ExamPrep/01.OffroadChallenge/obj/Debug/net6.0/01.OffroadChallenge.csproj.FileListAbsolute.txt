@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/ExamPrep/01.OffroadChallenge/bin/Debug/net6.0/01.OffroadChallenge
+/Users/kristianivanov/Projects/ExamPrep/01.OffroadChallenge/bin/Debug/net6.0/01.OffroadChallenge.deps.json
+/Users/kristianivanov/Projects/ExamPrep/01.OffroadChallenge/bin/Debug/net6.0/01.OffroadChallenge.runtimeconfig.json
+/Users/kristianivanov/Projects/ExamPrep/01.OffroadChallenge/bin/Debug/net6.0/01.OffroadChallenge.dll
+/Users/kristianivanov/Projects/ExamPrep/01.OffroadChallenge/bin/Debug/net6.0/01.OffroadChallenge.pdb
+/Users/kristianivanov/Projects/ExamPrep/01.OffroadChallenge/obj/Debug/net6.0/01.OffroadChallenge.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/ExamPrep/01.OffroadChallenge/obj/Debug/net6.0/01.OffroadChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/ExamPrep/01.OffroadChallenge/obj/Debug/net6.0/01.OffroadChallenge.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/ExamPrep/01.OffroadChallenge/obj/Debug/net6.0/01.OffroadChallenge.AssemblyInfo.cs
+/Users/kristianivanov/Projects/ExamPrep/01.OffroadChallenge/obj/Debug/net6.0/01.OffroadChallenge.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/ExamPrep/01.OffroadChallenge/obj/Debug/net6.0/01.OffroadChallenge.dll
+/Users/kristianivanov/Projects/ExamPrep/01.OffroadChallenge/obj/Debug/net6.0/refint/01.OffroadChallenge.dll
+/Users/kristianivanov/Projects/ExamPrep/01.OffroadChallenge/obj/Debug/net6.0/01.OffroadChallenge.pdb
+/Users/kristianivanov/Projects/ExamPrep/01.OffroadChallenge/obj/Debug/net6.0/01.OffroadChallenge.genruntimeconfig.cache
+/Users/kristianivanov/Projects/ExamPrep/01.OffroadChallenge/obj/Debug/net6.0/ref/01.OffroadChallenge.dll

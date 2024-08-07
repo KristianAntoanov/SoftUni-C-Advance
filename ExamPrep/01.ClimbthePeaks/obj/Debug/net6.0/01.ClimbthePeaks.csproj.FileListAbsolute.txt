@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/ExamPrep/01.ClimbthePeaks/bin/Debug/net6.0/01.ClimbthePeaks
+/Users/kristianivanov/Projects/ExamPrep/01.ClimbthePeaks/bin/Debug/net6.0/01.ClimbthePeaks.deps.json
+/Users/kristianivanov/Projects/ExamPrep/01.ClimbthePeaks/bin/Debug/net6.0/01.ClimbthePeaks.runtimeconfig.json
+/Users/kristianivanov/Projects/ExamPrep/01.ClimbthePeaks/bin/Debug/net6.0/01.ClimbthePeaks.dll
+/Users/kristianivanov/Projects/ExamPrep/01.ClimbthePeaks/bin/Debug/net6.0/01.ClimbthePeaks.pdb
+/Users/kristianivanov/Projects/ExamPrep/01.ClimbthePeaks/obj/Debug/net6.0/01.ClimbthePeaks.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/ExamPrep/01.ClimbthePeaks/obj/Debug/net6.0/01.ClimbthePeaks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/ExamPrep/01.ClimbthePeaks/obj/Debug/net6.0/01.ClimbthePeaks.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/ExamPrep/01.ClimbthePeaks/obj/Debug/net6.0/01.ClimbthePeaks.AssemblyInfo.cs
+/Users/kristianivanov/Projects/ExamPrep/01.ClimbthePeaks/obj/Debug/net6.0/01.ClimbthePeaks.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/ExamPrep/01.ClimbthePeaks/obj/Debug/net6.0/01.ClimbthePeaks.dll
+/Users/kristianivanov/Projects/ExamPrep/01.ClimbthePeaks/obj/Debug/net6.0/refint/01.ClimbthePeaks.dll
+/Users/kristianivanov/Projects/ExamPrep/01.ClimbthePeaks/obj/Debug/net6.0/01.ClimbthePeaks.pdb
+/Users/kristianivanov/Projects/ExamPrep/01.ClimbthePeaks/obj/Debug/net6.0/01.ClimbthePeaks.genruntimeconfig.cache
+/Users/kristianivanov/Projects/ExamPrep/01.ClimbthePeaks/obj/Debug/net6.0/ref/01.ClimbthePeaks.dll

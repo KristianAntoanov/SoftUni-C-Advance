@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/ExamPrep/01.Worms&Holes/bin/Debug/net6.0/01.Worms&Holes
+/Users/kristianivanov/Projects/ExamPrep/01.Worms&Holes/bin/Debug/net6.0/01.Worms&Holes.deps.json
+/Users/kristianivanov/Projects/ExamPrep/01.Worms&Holes/bin/Debug/net6.0/01.Worms&Holes.runtimeconfig.json
+/Users/kristianivanov/Projects/ExamPrep/01.Worms&Holes/bin/Debug/net6.0/01.Worms&Holes.dll
+/Users/kristianivanov/Projects/ExamPrep/01.Worms&Holes/bin/Debug/net6.0/01.Worms&Holes.pdb
+/Users/kristianivanov/Projects/ExamPrep/01.Worms&Holes/obj/Debug/net6.0/01.Worms&Holes.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/ExamPrep/01.Worms&Holes/obj/Debug/net6.0/01.Worms&Holes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/ExamPrep/01.Worms&Holes/obj/Debug/net6.0/01.Worms&Holes.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/ExamPrep/01.Worms&Holes/obj/Debug/net6.0/01.Worms&Holes.AssemblyInfo.cs
+/Users/kristianivanov/Projects/ExamPrep/01.Worms&Holes/obj/Debug/net6.0/01.Worms&Holes.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/ExamPrep/01.Worms&Holes/obj/Debug/net6.0/01.Worms&Holes.dll
+/Users/kristianivanov/Projects/ExamPrep/01.Worms&Holes/obj/Debug/net6.0/refint/01.Worms&Holes.dll
+/Users/kristianivanov/Projects/ExamPrep/01.Worms&Holes/obj/Debug/net6.0/01.Worms&Holes.pdb
+/Users/kristianivanov/Projects/ExamPrep/01.Worms&Holes/obj/Debug/net6.0/01.Worms&Holes.genruntimeconfig.cache
+/Users/kristianivanov/Projects/ExamPrep/01.Worms&Holes/obj/Debug/net6.0/ref/01.Worms&Holes.dll
