@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{80262AD9-CA0B-4154-AC78-266EAADAA54B}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingList/Program.cs" relfile="ImplementingList/Program.cs" line="17" column="1" />
+      <Breakpoint file="/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingQueue/Program.cs" relfile="ImplementingQueue/Program.cs" line="17" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ImplementingStack PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ImplementingQueue PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ImplementingList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ImplementingStack/Program.cs">
+    <Files>
+      <File FileName="ImplementingStack/Program.cs" Line="1" Column="1" />
+      <File FileName="ImplementingStack/CustomStack.cs" Line="64" Column="10" />
+      <File FileName="ImplementingList/CustomList.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ImplementingQueueAndStack" expanded="True">
+            <Node name="ImplementingStack" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

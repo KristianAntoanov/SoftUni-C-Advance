@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingList/bin/Debug/net6.0/ImplementingList
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingList/bin/Debug/net6.0/ImplementingList.deps.json
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingList/bin/Debug/net6.0/ImplementingList.runtimeconfig.json
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingList/bin/Debug/net6.0/ImplementingList.dll
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingList/bin/Debug/net6.0/ImplementingList.pdb
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingList/obj/Debug/net6.0/ImplementingList.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingList/obj/Debug/net6.0/ImplementingList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingList/obj/Debug/net6.0/ImplementingList.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingList/obj/Debug/net6.0/ImplementingList.AssemblyInfo.cs
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingList/obj/Debug/net6.0/ImplementingList.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingList/obj/Debug/net6.0/ImplementingList.dll
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingList/obj/Debug/net6.0/refint/ImplementingList.dll
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingList/obj/Debug/net6.0/ImplementingList.pdb
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingList/obj/Debug/net6.0/ImplementingList.genruntimeconfig.cache
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingList/obj/Debug/net6.0/ref/ImplementingList.dll

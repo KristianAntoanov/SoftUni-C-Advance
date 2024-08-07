@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingQueue/bin/Debug/net6.0/ImplementingQueue
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingQueue/bin/Debug/net6.0/ImplementingQueue.deps.json
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingQueue/bin/Debug/net6.0/ImplementingQueue.runtimeconfig.json
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingQueue/bin/Debug/net6.0/ImplementingQueue.dll
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingQueue/bin/Debug/net6.0/ImplementingQueue.pdb
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingQueue/obj/Debug/net6.0/ImplementingQueue.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingQueue/obj/Debug/net6.0/ImplementingQueue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingQueue/obj/Debug/net6.0/ImplementingQueue.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingQueue/obj/Debug/net6.0/ImplementingQueue.AssemblyInfo.cs
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingQueue/obj/Debug/net6.0/ImplementingQueue.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingQueue/obj/Debug/net6.0/ImplementingQueue.dll
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingQueue/obj/Debug/net6.0/refint/ImplementingQueue.dll
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingQueue/obj/Debug/net6.0/ImplementingQueue.pdb
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingQueue/obj/Debug/net6.0/ImplementingQueue.genruntimeconfig.cache
+/Users/kristianivanov/Projects/ImplementingQueueAndStack/ImplementingQueue/obj/Debug/net6.0/ref/ImplementingQueue.dll
