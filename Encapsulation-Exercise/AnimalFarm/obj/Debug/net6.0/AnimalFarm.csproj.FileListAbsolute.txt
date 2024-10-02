@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Encapsulation-Exercise/AnimalFarm/bin/Debug/net6.0/AnimalFarm
+/Users/kristianivanov/Projects/Encapsulation-Exercise/AnimalFarm/bin/Debug/net6.0/AnimalFarm.deps.json
+/Users/kristianivanov/Projects/Encapsulation-Exercise/AnimalFarm/bin/Debug/net6.0/AnimalFarm.runtimeconfig.json
+/Users/kristianivanov/Projects/Encapsulation-Exercise/AnimalFarm/bin/Debug/net6.0/AnimalFarm.dll
+/Users/kristianivanov/Projects/Encapsulation-Exercise/AnimalFarm/bin/Debug/net6.0/AnimalFarm.pdb
+/Users/kristianivanov/Projects/Encapsulation-Exercise/AnimalFarm/obj/Debug/net6.0/AnimalFarm.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Encapsulation-Exercise/AnimalFarm/obj/Debug/net6.0/AnimalFarm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Encapsulation-Exercise/AnimalFarm/obj/Debug/net6.0/AnimalFarm.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Encapsulation-Exercise/AnimalFarm/obj/Debug/net6.0/AnimalFarm.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Encapsulation-Exercise/AnimalFarm/obj/Debug/net6.0/AnimalFarm.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Encapsulation-Exercise/AnimalFarm/obj/Debug/net6.0/AnimalFarm.dll
+/Users/kristianivanov/Projects/Encapsulation-Exercise/AnimalFarm/obj/Debug/net6.0/refint/AnimalFarm.dll
+/Users/kristianivanov/Projects/Encapsulation-Exercise/AnimalFarm/obj/Debug/net6.0/AnimalFarm.pdb
+/Users/kristianivanov/Projects/Encapsulation-Exercise/AnimalFarm/obj/Debug/net6.0/AnimalFarm.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Encapsulation-Exercise/AnimalFarm/obj/Debug/net6.0/ref/AnimalFarm.dll

@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{C47974A2-87F3-4234-A2F2-88D4077F6D80}|Default">
+  <MonoDevelop.Ide.ItemProperties.PizzaCalories PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FootballTeamGenerator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AnimalFarm PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FootballTeamGenerator/Models/Player.cs">
+    <Files>
+      <File FileName="FootballTeamGenerator/Program.cs" Line="28" Column="71" />
+      <File FileName="FootballTeamGenerator/Models/Player.cs" Line="29" Column="16" />
+      <File FileName="FootballTeamGenerator/Models/Team.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Encapsulation-Exercise" expanded="True">
+            <Node name="FootballTeamGenerator" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Player.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ShoppingSpree PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kristianivanov/Projects/Encapsulation-Exercise/ShoppingSpree/Person.cs" relfile="ShoppingSpree/Person.cs" line="58" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ClassBoxData PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
