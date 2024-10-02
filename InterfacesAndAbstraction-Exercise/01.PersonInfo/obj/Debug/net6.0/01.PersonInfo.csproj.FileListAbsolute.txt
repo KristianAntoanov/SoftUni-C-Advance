@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/01.PersonInfo/bin/Debug/net6.0/01.PersonInfo
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/01.PersonInfo/bin/Debug/net6.0/01.PersonInfo.deps.json
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/01.PersonInfo/bin/Debug/net6.0/01.PersonInfo.runtimeconfig.json
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/01.PersonInfo/bin/Debug/net6.0/01.PersonInfo.dll
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/01.PersonInfo/bin/Debug/net6.0/01.PersonInfo.pdb
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/01.PersonInfo/obj/Debug/net6.0/01.PersonInfo.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/01.PersonInfo/obj/Debug/net6.0/01.PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/01.PersonInfo/obj/Debug/net6.0/01.PersonInfo.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/01.PersonInfo/obj/Debug/net6.0/01.PersonInfo.AssemblyInfo.cs
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/01.PersonInfo/obj/Debug/net6.0/01.PersonInfo.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/01.PersonInfo/obj/Debug/net6.0/01.PersonInfo.dll
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/01.PersonInfo/obj/Debug/net6.0/refint/01.PersonInfo.dll
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/01.PersonInfo/obj/Debug/net6.0/01.PersonInfo.pdb
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/01.PersonInfo/obj/Debug/net6.0/01.PersonInfo.genruntimeconfig.cache
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/01.PersonInfo/obj/Debug/net6.0/ref/01.PersonInfo.dll

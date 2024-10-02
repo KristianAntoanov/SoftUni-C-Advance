@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{F0FE97A8-0446-4A2A-959A-A51DB6316016}|Default">
+  <MonoDevelop.Ide.ItemProperties.04.BorderControl PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.07.MilitaryElite PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="06.FoodShortage/Models/Rebel.cs">
+    <Files>
+      <File FileName="06.FoodShortage/Models/Rebel.cs" Line="1" Column="1" />
+      <File FileName="06.FoodShortage/Models/Citizen.cs" Line="1" Column="1" />
+      <File FileName="06.FoodShortage/Models/Iterfaces/IBuyer.cs" />
+      <File FileName="06.FoodShortage/Core/Engine.cs" Line="50" Column="55" />
+      <File FileName="06.FoodShortage/Models/Iterfaces/IBirthable.cs" />
+      <File FileName="01.PersonInfo/Citizen.cs" Line="1" Column="1" />
+      <File FileName="Telephony/Models/Smartphone.cs" Line="1" Column="1" />
+      <File FileName="06.FoodShortage/Models/Pet.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InterfacesAndAbstraction-Exercise" expanded="True">
+            <Node name="01.PersonInfo" expanded="True" />
+            <Node name="02.Telephony" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="06.FoodShortage" expanded="True">
+              <Node name="Core" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Rebel.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.06.FoodShortage PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.01.PersonInfo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.02.Telephony PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.BirthdayCelebrations PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

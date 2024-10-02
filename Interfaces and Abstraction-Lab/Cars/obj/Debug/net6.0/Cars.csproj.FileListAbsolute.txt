@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/Cars/bin/Debug/net6.0/Cars
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/Cars/bin/Debug/net6.0/Cars.deps.json
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/Cars/bin/Debug/net6.0/Cars.runtimeconfig.json
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/Cars/bin/Debug/net6.0/Cars.dll
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/Cars/bin/Debug/net6.0/Cars.pdb
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/Cars/obj/Debug/net6.0/Cars.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/Cars/obj/Debug/net6.0/Cars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/Cars/obj/Debug/net6.0/Cars.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/Cars/obj/Debug/net6.0/Cars.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/Cars/obj/Debug/net6.0/Cars.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/Cars/obj/Debug/net6.0/Cars.dll
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/Cars/obj/Debug/net6.0/refint/Cars.dll
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/Cars/obj/Debug/net6.0/Cars.pdb
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/Cars/obj/Debug/net6.0/Cars.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/Cars/obj/Debug/net6.0/ref/Cars.dll

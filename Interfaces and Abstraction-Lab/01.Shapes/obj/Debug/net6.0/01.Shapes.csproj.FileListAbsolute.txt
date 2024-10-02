@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/01.Shapes/bin/Debug/net6.0/01.Shapes
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/01.Shapes/bin/Debug/net6.0/01.Shapes.deps.json
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/01.Shapes/bin/Debug/net6.0/01.Shapes.runtimeconfig.json
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/01.Shapes/bin/Debug/net6.0/01.Shapes.dll
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/01.Shapes/bin/Debug/net6.0/01.Shapes.pdb
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/01.Shapes/obj/Debug/net6.0/01.Shapes.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/01.Shapes/obj/Debug/net6.0/01.Shapes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/01.Shapes/obj/Debug/net6.0/01.Shapes.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/01.Shapes/obj/Debug/net6.0/01.Shapes.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/01.Shapes/obj/Debug/net6.0/01.Shapes.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/01.Shapes/obj/Debug/net6.0/01.Shapes.dll
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/01.Shapes/obj/Debug/net6.0/refint/01.Shapes.dll
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/01.Shapes/obj/Debug/net6.0/01.Shapes.pdb
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/01.Shapes/obj/Debug/net6.0/01.Shapes.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Interfaces and Abstraction-Lab/01.Shapes/obj/Debug/net6.0/ref/01.Shapes.dll

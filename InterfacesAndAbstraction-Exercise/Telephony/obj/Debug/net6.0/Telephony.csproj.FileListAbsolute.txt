@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/Telephony/obj/Debug/net6.0/Telephony.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/Telephony/obj/Debug/net6.0/Telephony.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/Telephony/obj/Debug/net6.0/Telephony.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/Telephony/obj/Debug/net6.0/Telephony.AssemblyInfo.cs
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/Telephony/obj/Debug/net6.0/Telephony.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/Telephony/bin/Debug/net6.0/Telephony
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/Telephony/bin/Debug/net6.0/Telephony.deps.json
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/Telephony/bin/Debug/net6.0/Telephony.runtimeconfig.json
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/Telephony/bin/Debug/net6.0/Telephony.dll
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/Telephony/bin/Debug/net6.0/Telephony.pdb
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/Telephony/obj/Debug/net6.0/Telephony.dll
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/Telephony/obj/Debug/net6.0/refint/Telephony.dll
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/Telephony/obj/Debug/net6.0/Telephony.pdb
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/Telephony/obj/Debug/net6.0/Telephony.genruntimeconfig.cache
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/Telephony/obj/Debug/net6.0/ref/Telephony.dll

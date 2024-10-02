@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/06.FoodShortage/bin/Debug/net6.0/06.FoodShortage
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/06.FoodShortage/bin/Debug/net6.0/06.FoodShortage.deps.json
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/06.FoodShortage/bin/Debug/net6.0/06.FoodShortage.runtimeconfig.json
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/06.FoodShortage/bin/Debug/net6.0/06.FoodShortage.dll
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/06.FoodShortage/bin/Debug/net6.0/06.FoodShortage.pdb
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/06.FoodShortage/obj/Debug/net6.0/06.FoodShortage.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/06.FoodShortage/obj/Debug/net6.0/06.FoodShortage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/06.FoodShortage/obj/Debug/net6.0/06.FoodShortage.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/06.FoodShortage/obj/Debug/net6.0/06.FoodShortage.AssemblyInfo.cs
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/06.FoodShortage/obj/Debug/net6.0/06.FoodShortage.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/06.FoodShortage/obj/Debug/net6.0/06.FoodShortage.dll
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/06.FoodShortage/obj/Debug/net6.0/refint/06.FoodShortage.dll
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/06.FoodShortage/obj/Debug/net6.0/06.FoodShortage.pdb
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/06.FoodShortage/obj/Debug/net6.0/06.FoodShortage.genruntimeconfig.cache
+/Users/kristianivanov/Projects/InterfacesAndAbstraction-Exercise/06.FoodShortage/obj/Debug/net6.0/ref/06.FoodShortage.dll

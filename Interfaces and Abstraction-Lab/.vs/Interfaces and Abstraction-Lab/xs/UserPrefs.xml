@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{2D174AFD-10B9-4880-B46F-448EB3144F16}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cars/Program.cs">
+    <Files>
+      <File FileName="Cars/Program.cs" Line="12" Column="48" />
+      <File FileName="Cars/ICar.cs" Line="10" Column="24" />
+      <File FileName="Cars/IElectricCar.cs" Line="6" Column="35" />
+      <File FileName="Cars/Seat.cs" Line="4" Column="26" />
+      <File FileName="Cars/Tesla.cs" Line="26" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Interfaces and Abstraction-Lab" expanded="True">
+            <Node name="Cars" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Shapes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Cars PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
