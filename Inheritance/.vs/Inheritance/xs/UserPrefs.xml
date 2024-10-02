@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{3A5E7FE0-C7FB-45ED-99C2-0CC534E4A15F}|Default">
+  <MonoDevelop.Ide.ItemProperties.02.CustomRandomList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.CustomStack/StartUp.cs">
+    <Files>
+      <File FileName="03.CustomStack/Program.cs" Line="14" Column="38" />
+      <File FileName="03.CustomStack/StackOfStrings.cs" Line="13" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Inheritance" expanded="True">
+            <Node name="03.CustomStack" expanded="True">
+              <Node name="StartUp.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.03.CustomStack PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.01.Farm PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

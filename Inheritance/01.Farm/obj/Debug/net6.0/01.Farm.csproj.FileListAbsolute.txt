@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Inheritance/01.Farm/bin/Debug/net6.0/01.Farm
+/Users/kristianivanov/Projects/Inheritance/01.Farm/bin/Debug/net6.0/01.Farm.deps.json
+/Users/kristianivanov/Projects/Inheritance/01.Farm/bin/Debug/net6.0/01.Farm.runtimeconfig.json
+/Users/kristianivanov/Projects/Inheritance/01.Farm/bin/Debug/net6.0/01.Farm.dll
+/Users/kristianivanov/Projects/Inheritance/01.Farm/bin/Debug/net6.0/01.Farm.pdb
+/Users/kristianivanov/Projects/Inheritance/01.Farm/obj/Debug/net6.0/01.Farm.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Inheritance/01.Farm/obj/Debug/net6.0/01.Farm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Inheritance/01.Farm/obj/Debug/net6.0/01.Farm.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Inheritance/01.Farm/obj/Debug/net6.0/01.Farm.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Inheritance/01.Farm/obj/Debug/net6.0/01.Farm.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Inheritance/01.Farm/obj/Debug/net6.0/01.Farm.dll
+/Users/kristianivanov/Projects/Inheritance/01.Farm/obj/Debug/net6.0/refint/01.Farm.dll
+/Users/kristianivanov/Projects/Inheritance/01.Farm/obj/Debug/net6.0/01.Farm.pdb
+/Users/kristianivanov/Projects/Inheritance/01.Farm/obj/Debug/net6.0/01.Farm.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Inheritance/01.Farm/obj/Debug/net6.0/ref/01.Farm.dll

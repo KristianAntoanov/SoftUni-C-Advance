@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Inheritance-Exercise/04.NeedForSpeed/bin/Debug/net6.0/04.NeedForSpeed
+/Users/kristianivanov/Projects/Inheritance-Exercise/04.NeedForSpeed/bin/Debug/net6.0/04.NeedForSpeed.deps.json
+/Users/kristianivanov/Projects/Inheritance-Exercise/04.NeedForSpeed/bin/Debug/net6.0/04.NeedForSpeed.runtimeconfig.json
+/Users/kristianivanov/Projects/Inheritance-Exercise/04.NeedForSpeed/bin/Debug/net6.0/04.NeedForSpeed.dll
+/Users/kristianivanov/Projects/Inheritance-Exercise/04.NeedForSpeed/bin/Debug/net6.0/04.NeedForSpeed.pdb
+/Users/kristianivanov/Projects/Inheritance-Exercise/04.NeedForSpeed/obj/Debug/net6.0/04.NeedForSpeed.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Inheritance-Exercise/04.NeedForSpeed/obj/Debug/net6.0/04.NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Inheritance-Exercise/04.NeedForSpeed/obj/Debug/net6.0/04.NeedForSpeed.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Inheritance-Exercise/04.NeedForSpeed/obj/Debug/net6.0/04.NeedForSpeed.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Inheritance-Exercise/04.NeedForSpeed/obj/Debug/net6.0/04.NeedForSpeed.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Inheritance-Exercise/04.NeedForSpeed/obj/Debug/net6.0/04.NeedForSpeed.dll
+/Users/kristianivanov/Projects/Inheritance-Exercise/04.NeedForSpeed/obj/Debug/net6.0/refint/04.NeedForSpeed.dll
+/Users/kristianivanov/Projects/Inheritance-Exercise/04.NeedForSpeed/obj/Debug/net6.0/04.NeedForSpeed.pdb
+/Users/kristianivanov/Projects/Inheritance-Exercise/04.NeedForSpeed/obj/Debug/net6.0/04.NeedForSpeed.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Inheritance-Exercise/04.NeedForSpeed/obj/Debug/net6.0/ref/04.NeedForSpeed.dll

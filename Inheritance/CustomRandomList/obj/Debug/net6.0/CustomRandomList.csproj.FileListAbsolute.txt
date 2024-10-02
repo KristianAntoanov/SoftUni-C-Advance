@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Inheritance/CustomRandomList/bin/Debug/net6.0/CustomRandomList
+/Users/kristianivanov/Projects/Inheritance/CustomRandomList/bin/Debug/net6.0/CustomRandomList.deps.json
+/Users/kristianivanov/Projects/Inheritance/CustomRandomList/bin/Debug/net6.0/CustomRandomList.runtimeconfig.json
+/Users/kristianivanov/Projects/Inheritance/CustomRandomList/bin/Debug/net6.0/CustomRandomList.dll
+/Users/kristianivanov/Projects/Inheritance/CustomRandomList/bin/Debug/net6.0/CustomRandomList.pdb
+/Users/kristianivanov/Projects/Inheritance/CustomRandomList/obj/Debug/net6.0/CustomRandomList.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Inheritance/CustomRandomList/obj/Debug/net6.0/CustomRandomList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Inheritance/CustomRandomList/obj/Debug/net6.0/CustomRandomList.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Inheritance/CustomRandomList/obj/Debug/net6.0/CustomRandomList.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Inheritance/CustomRandomList/obj/Debug/net6.0/CustomRandomList.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Inheritance/CustomRandomList/obj/Debug/net6.0/CustomRandomList.dll
+/Users/kristianivanov/Projects/Inheritance/CustomRandomList/obj/Debug/net6.0/refint/CustomRandomList.dll
+/Users/kristianivanov/Projects/Inheritance/CustomRandomList/obj/Debug/net6.0/CustomRandomList.pdb
+/Users/kristianivanov/Projects/Inheritance/CustomRandomList/obj/Debug/net6.0/CustomRandomList.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Inheritance/CustomRandomList/obj/Debug/net6.0/ref/CustomRandomList.dll

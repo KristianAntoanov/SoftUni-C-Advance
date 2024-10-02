@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Inheritance-Exercise/01.Person/bin/Debug/net6.0/01.Person
+/Users/kristianivanov/Projects/Inheritance-Exercise/01.Person/bin/Debug/net6.0/01.Person.deps.json
+/Users/kristianivanov/Projects/Inheritance-Exercise/01.Person/bin/Debug/net6.0/01.Person.runtimeconfig.json
+/Users/kristianivanov/Projects/Inheritance-Exercise/01.Person/bin/Debug/net6.0/01.Person.dll
+/Users/kristianivanov/Projects/Inheritance-Exercise/01.Person/bin/Debug/net6.0/01.Person.pdb
+/Users/kristianivanov/Projects/Inheritance-Exercise/01.Person/obj/Debug/net6.0/01.Person.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Inheritance-Exercise/01.Person/obj/Debug/net6.0/01.Person.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Inheritance-Exercise/01.Person/obj/Debug/net6.0/01.Person.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Inheritance-Exercise/01.Person/obj/Debug/net6.0/01.Person.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Inheritance-Exercise/01.Person/obj/Debug/net6.0/01.Person.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Inheritance-Exercise/01.Person/obj/Debug/net6.0/01.Person.dll
+/Users/kristianivanov/Projects/Inheritance-Exercise/01.Person/obj/Debug/net6.0/refint/01.Person.dll
+/Users/kristianivanov/Projects/Inheritance-Exercise/01.Person/obj/Debug/net6.0/01.Person.pdb
+/Users/kristianivanov/Projects/Inheritance-Exercise/01.Person/obj/Debug/net6.0/01.Person.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Inheritance-Exercise/01.Person/obj/Debug/net6.0/ref/01.Person.dll

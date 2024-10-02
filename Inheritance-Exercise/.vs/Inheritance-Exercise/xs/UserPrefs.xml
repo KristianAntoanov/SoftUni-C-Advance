@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{E8C5029B-E17F-4D32-A06B-D75DADCD4578}|Default">
+  <MonoDevelop.Ide.ItemProperties.05.Restaurant PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.Animals PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.PlayersAndMonsters PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04.NeedForSpeed PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.Zoo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="06.Animals/StartUp.cs">
+    <Files>
+      <File FileName="06.Animals/StartUp.cs" Line="49" Column="49" />
+      <File FileName="06.Animals/Animals.cs" Line="2" Column="18" />
+      <File FileName="06.Animals/Dog.cs" Line="2" Column="18" />
+      <File FileName="06.Animals/Frog.cs" Line="2" Column="18" />
+      <File FileName="06.Animals/Cat.cs" Line="2" Column="18" />
+      <File FileName="06.Animals/Kitten.cs" Line="2" Column="18" />
+      <File FileName="06.Animals/Tomcat.cs" Line="2" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Inheritance-Exercise" expanded="True">
+            <Node name="06.Animals" expanded="True">
+              <Node name="StartUp.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.01.Person PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

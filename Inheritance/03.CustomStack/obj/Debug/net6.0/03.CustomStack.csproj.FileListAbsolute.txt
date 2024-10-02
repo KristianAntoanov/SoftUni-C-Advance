@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Inheritance/03.CustomStack/bin/Debug/net6.0/03.CustomStack
+/Users/kristianivanov/Projects/Inheritance/03.CustomStack/bin/Debug/net6.0/03.CustomStack.deps.json
+/Users/kristianivanov/Projects/Inheritance/03.CustomStack/bin/Debug/net6.0/03.CustomStack.runtimeconfig.json
+/Users/kristianivanov/Projects/Inheritance/03.CustomStack/bin/Debug/net6.0/03.CustomStack.dll
+/Users/kristianivanov/Projects/Inheritance/03.CustomStack/bin/Debug/net6.0/03.CustomStack.pdb
+/Users/kristianivanov/Projects/Inheritance/03.CustomStack/obj/Debug/net6.0/03.CustomStack.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Inheritance/03.CustomStack/obj/Debug/net6.0/03.CustomStack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Inheritance/03.CustomStack/obj/Debug/net6.0/03.CustomStack.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Inheritance/03.CustomStack/obj/Debug/net6.0/03.CustomStack.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Inheritance/03.CustomStack/obj/Debug/net6.0/03.CustomStack.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Inheritance/03.CustomStack/obj/Debug/net6.0/03.CustomStack.dll
+/Users/kristianivanov/Projects/Inheritance/03.CustomStack/obj/Debug/net6.0/refint/03.CustomStack.dll
+/Users/kristianivanov/Projects/Inheritance/03.CustomStack/obj/Debug/net6.0/03.CustomStack.pdb
+/Users/kristianivanov/Projects/Inheritance/03.CustomStack/obj/Debug/net6.0/03.CustomStack.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Inheritance/03.CustomStack/obj/Debug/net6.0/ref/03.CustomStack.dll

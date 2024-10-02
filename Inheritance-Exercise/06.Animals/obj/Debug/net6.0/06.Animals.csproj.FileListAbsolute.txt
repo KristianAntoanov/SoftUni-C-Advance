@@ -1,0 +1,15 @@
+/Users/kristianivanov/Projects/Inheritance-Exercise/06.Animals/bin/Debug/net6.0/06.Animals
+/Users/kristianivanov/Projects/Inheritance-Exercise/06.Animals/bin/Debug/net6.0/06.Animals.deps.json
+/Users/kristianivanov/Projects/Inheritance-Exercise/06.Animals/bin/Debug/net6.0/06.Animals.runtimeconfig.json
+/Users/kristianivanov/Projects/Inheritance-Exercise/06.Animals/bin/Debug/net6.0/06.Animals.dll
+/Users/kristianivanov/Projects/Inheritance-Exercise/06.Animals/bin/Debug/net6.0/06.Animals.pdb
+/Users/kristianivanov/Projects/Inheritance-Exercise/06.Animals/obj/Debug/net6.0/06.Animals.csproj.AssemblyReference.cache
+/Users/kristianivanov/Projects/Inheritance-Exercise/06.Animals/obj/Debug/net6.0/06.Animals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianivanov/Projects/Inheritance-Exercise/06.Animals/obj/Debug/net6.0/06.Animals.AssemblyInfoInputs.cache
+/Users/kristianivanov/Projects/Inheritance-Exercise/06.Animals/obj/Debug/net6.0/06.Animals.AssemblyInfo.cs
+/Users/kristianivanov/Projects/Inheritance-Exercise/06.Animals/obj/Debug/net6.0/06.Animals.csproj.CoreCompileInputs.cache
+/Users/kristianivanov/Projects/Inheritance-Exercise/06.Animals/obj/Debug/net6.0/06.Animals.dll
+/Users/kristianivanov/Projects/Inheritance-Exercise/06.Animals/obj/Debug/net6.0/refint/06.Animals.dll
+/Users/kristianivanov/Projects/Inheritance-Exercise/06.Animals/obj/Debug/net6.0/06.Animals.pdb
+/Users/kristianivanov/Projects/Inheritance-Exercise/06.Animals/obj/Debug/net6.0/06.Animals.genruntimeconfig.cache
+/Users/kristianivanov/Projects/Inheritance-Exercise/06.Animals/obj/Debug/net6.0/ref/06.Animals.dll
